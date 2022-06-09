@@ -1,10 +1,6 @@
 TITLE Integer ASCII Validation     (Proj6_tolsone.asm)
 
 ; Author: Eric Tolson
-; Last Modified: 6/1/2022
-; OSU email address: tolsone@oregonstate.edu
-; Course number/section: 271  CS271 Section 400
-; Project Number:       6          Due Date: 6/5/2022
 ; Description: This program takes user 10 inputs that are validated as
 ; numbers that fit into 32 bit register. This program converts the user input
 ; into integers using math and ASCII references. This Program then converts the
